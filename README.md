@@ -1,2 +1,3 @@
 # pythonmodulesexamples
-examples of modules from python
+examples of modules from python  
+for school project
